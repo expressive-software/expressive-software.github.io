@@ -5,5 +5,4 @@ const eleventyNavigation = {
 };
 ---
 # About
-
-I am a person that writes stuff.
+Expressive Software is a group of independent developers building simple software for everyone.
